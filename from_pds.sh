@@ -1,5 +1,5 @@
 #!/bin/env bash
-
+#pr
 # Copy the files. See the comments in to_pds.sh for more information.
 cp -S a=.c "//demo.c" .
 cp -S a=.h "//demo.h" .
